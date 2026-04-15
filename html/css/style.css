@@ -1,9 +1,6 @@
-table{
-    width: 100%;
-    border-collapse: collapse;
+h1{
+    color: blueviolet;
 }
-
-td, th{
-    border: 1px solid blueviolet;
-    padding: 8px;
+img{
+    width: 500px;
 }
